@@ -19,7 +19,7 @@ c:\Users\AppData\Local\pypoetry\Cache\virtualenvs\src-NAqrsk9Z-py3.12
 1. Find the path of virtual env  
     - poetry env info -p // go and delete this directory.
 2. Let's change the poetry setting.
-    - poetry config virtualenvs.in-project true
+    - `poetry config virtualenvs.in-project true`
 3. Let's create a new virtual env.
     - poetry install
 4. Use poetry in shell.
